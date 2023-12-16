@@ -1,0 +1,60 @@
+.div {
+  border-radius: 5px;
+  color: wheat;
+  width: 40vw;
+  background-color: rgb(38, 46, 76);
+  margin: auto;
+  position: relative;
+  top: 90px;
+}
+.h2 {
+  background-color: rgb(211, 44, 63);
+  text-align: center;
+  padding: 10px;
+  height: 70px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+}
+#input {
+  border: none;
+  outline: none;
+  font-size: 20px;
+  background-color: rgb(60, 73, 118);
+  color: gainsboro;
+  width: 36vw;
+  height: 50px;
+  position: relative;
+  bottom: 7.9px;
+  padding-left: 10px;
+}
+#btn {
+  height: 50px;
+  background-color: rgb(76, 243, 193);
+  color: white;
+  width: 4vw;
+  position: relative;
+  font-size: 10px;
+  top: -8.5px;
+  border: none;
+}
+ul {
+  list-style: outside;
+}
+.butn {
+  background-color: rgb(38, 46, 76);
+  border: none;
+}
+.editinput {
+  border: none;
+  outline: none;
+  font-size: 20px;
+  background-color: rgb(38, 46, 76);
+  color: gainsboro;
+  width: 36vw;
+  height: 50px;
+  position: relative;
+  bottom: 7.9px;
+  margin-top: 15px;
+  padding-left: 10px;
+}
